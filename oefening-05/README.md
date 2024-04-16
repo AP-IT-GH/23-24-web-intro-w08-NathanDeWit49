@@ -20,3 +20,10 @@ Tijdens dit labo leer je
 2. Gebruik de endpoint /top-headlines.
 3. Voeg een X-Api-Key header toe met je API-sleutel.
 4. Voer het verzoek uit en bekijk de respons.
+
+
+{
+    "status": "error",
+    "code": "parametersMissing",
+    "message": "Required parameters are missing. Please set any of the following parameters and try again: sources, q, language, country, category."
+}
